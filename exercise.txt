@@ -1,1 +1,2 @@
 This document is for exercise, it's intended for the GitHub exercise.
+Changes made to exercise document for assignment.
